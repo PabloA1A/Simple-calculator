@@ -1,3 +1,10 @@
+# NPM
+
+## Installation
+````
+npm install
+````
+
 # Simple calculator
 
 ## You are required to create a simple calculator that returns the result of addition, subtraction, multiplication or division of two numbers.
